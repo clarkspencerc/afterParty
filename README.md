@@ -1,6 +1,4 @@
-# App Name
-
-After Party!
+# After Party!
 
 # Criteria Met
 
@@ -34,10 +32,21 @@ https://rapidapi.com/tipsters/api/booking-com
 - Font Awesome
 - Adobe Fonts
 
+# Lessons Learned
+  How to succesfully manipulate the DOM to add event and hotel cards. I had never had to implement JQueryUI before and using it to make the        autofill funciton allowed me to think about when the save, load, and autofill functions need to be called in order for the function to work properly. I also feel much more confident with adding to and pulling from a group repo.
+
 # Deployed Project
 
-https://lrpineda.github.io/afterParty/
+ https://clarkspencerc.github.io/afterParty/
+ 
+# Presentation 
+  https://docs.google.com/presentation/d/1PK8_E2NLgIxG_MoBXEJkmJ6TKK9hkDag2VB4tELNX_8/edit?usp=sharing
+ 
+# Wire Frame 
+
+  https://miro.com/app/board/uXjVO7PwSiY=/
 
 # Screenshot
 
+![Imgur](https://i.imgur.com/Fx59sXV.png)
 ![Imgur](https://i.imgur.com/EgIxHOZ.png)
